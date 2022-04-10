@@ -1,0 +1,16 @@
+@import url(reset.css);
+
+body {
+    background-color: #3c0e27;
+}
+
+img {
+    max-width: 100%;
+}
+
+.page-wrapper {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
